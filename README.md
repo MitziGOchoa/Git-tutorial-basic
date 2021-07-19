@@ -15,7 +15,7 @@ Con el segundo cambio realizado en git se puede verifiacar el estado de un archi
 Este comando nos permitira verificar si hay nuevas versiones sin actualizar del archivo (en caso de haber realizado algun cambio), asi como visualizar las 
 versiones anteriores del mismo. Si deseamos actualizar (agregar) los cambios realizados a un archivo en especifico de nuestro repositorio,ejecutamos el comando:
 
->git add <NombreDelArchivo>.<ExtensionDelArchivo>
+>git add "NombreDelArchivo"."ExtensionDelArchivo"
 
 Si, en cambio, se desea actualizar todos los cambios realizados, basta con escribir el comando:
 
