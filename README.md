@@ -1,20 +1,22 @@
 # Git-tutorial-basic
 Tutorial sobre el uso de Git para Código IoT
 
-Primer cambio realizado en git, accediendo a la carpeta donde se encuentra 
-almacenado el archivo y ejecutando el comando:
+El primer cambio realizado en git, permitio acceder  a la carpeta donde se encuentra 
+almacenado el archivo ejecutando el comando:
 
 >nano README.md
 
-mismo que nos permite editar el contenido del archivo
+Con este comando se nos permitira editar el contenido del archivo desde la
+terminal.
 
 Con el segundo cambio realizado en git se puede verifiacar el estado de un archivo
 git ejecutando el comando:
 
 >git status
 
-el cual nos permitira verificar si hay nuevas versiones sin actualizar de los
-cambios que hemos realizado, asi como visualizar nuestras versiones anteriores
+Este comando nos permitira verificar si hay nuevas versiones sin actualizar del
+archivo (en caso de haber realizado algun cambio), asi como visualizar las 
+versiones anteriores del mismo
 
 Si deseamos actualizar (agregar) los cambios realizados en nuestro repositorio,
 ejecutamos el comando:
