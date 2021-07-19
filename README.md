@@ -1,5 +1,5 @@
 # Git-tutorial-basic
-Primer hacercamiento a Git. Tutorial sobre el uso de Git para Código IoT
+Primer acercamiento a Git. Tutorial sobre el uso de Git para Código IoT
 
 
 #### Acceso y edicion de un archivo en un repositorio Git
