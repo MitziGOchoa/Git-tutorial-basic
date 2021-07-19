@@ -27,3 +27,9 @@ comando
 >git push
 
 Otra forma de editar un archivo es accediendo desde la pagina de: http://github.com donde accederemos al archivo que deseamos editar, en este caso accederemos a README.md y darremos click a la herramienta "Editar este archivo" el cual se encuentra marcado con el simbolo de un lapiz. A l momento de realizar los cambios en el archivo se sugiere realizar un commit de los cambios realizados al archivo, mismo que podremos realizar desde la sección Commit change, misma que aparecera en la parte inferior del archivo en edición
+
+Para actualizar los cambios realizados desde el editor web en la computadora, basta con escribir el comando:
+
+>git pull
+
+Esto se puede demostrar al volver a acceder al archivo git desde nuestra computadora
