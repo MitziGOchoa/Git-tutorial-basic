@@ -22,3 +22,13 @@ Si deseamos actualizar (agregar) los cambios realizados en nuestro repositorio,
 ejecutamos el comando:
 
 >git add <NombreDelArchivo>.<ExtensionDelArchivo>
+
+Utilizando el comando:
+
+>git commit -m "NombreDelCambioRealizado"
+
+Podemos registrar, en el historia de nuestro archivo git, las actualizaciones
+realizadas. Asegurandonos de guardar los cambios en la rama principal con el
+comando 
+
+>git push
