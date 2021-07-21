@@ -6,7 +6,7 @@ Primer acercamiento a Git. Tutorial sobre el uso de Git para Código IoT
 
 Para acceder  a la carpeta donde se encuentra almacenado el archivo a editar por medio de git, se ejecuta el comando:
 
->nano "NombreDelArchivo".md
+"nano <NombreDelArchivo>.md"
 
 Con el que se editara el contenido del archivo desde la terminal.
 
