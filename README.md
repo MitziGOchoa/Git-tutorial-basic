@@ -29,7 +29,7 @@ Si, en cambio, se desea actualizar todos los cambios realizados, basta con escri
 
 Utilizando el comando:
 
-`git commit -m "NombreDelCambioRealizado`
+`git commit -m "NombreDelCambioRealizado"`
 
 Podemos comentar en el historia de nuestro archivo git, las actualizaciones realizadas. Asegurandonos de guardar los cambios en la rama principal con el
 comando 
