@@ -50,10 +50,13 @@ Esto se puede comprobar al volver a acceder al archivo git desde nuestra computa
 
 Si se ha instalado previamente GitHub Desktop en la maquina en la que nos encontramos trabajando, es posible administrar un repositorio ya existente en la misma, al asociar nuestra cuenta de Git con GitHub Desktop. Y seleccionando del menú de opciones la que dice: "Add an Existing Repository from your Hard Drive...", opcion que nos permitira agregar un repositorio existente desde nuestra computadora. Una vez realizado lo anterior, es posible editar el archivo directamente desde el editor de textos de nuestra maquina y, finalizada la edicion del mismo (asegurandonos de guardar los cambios realizados antes de cerrar el archivo), realizar un commit de los mismos desde GitHub Desktop, para finalmente actualizar tus repositorios con la opcion de push que GitHub mismo te notificara. 
 
-### Realizar una modificacion desde Visual Studio Code
+## Realizar una modificacion desde Visual Studio Code
 
 Pasos:
 1. Realizar la modificacion deseada
-2. En File-> Save guardar el cambio realizado
-3. En la pestaña de source control se sugiere realizar un commit y dar click a la palomita para confirmar el commit
-4. Finalmente dar click a los 3 puntos horizontales de la pestaña source control y dar click a la opcion de push
+2. En la pestaña File --> Save para guardar el cambio realizado
+3. Una vez guardado el archivo, en la ventana de source control se sugiere realizar un commit y dar click a la palomita para confirmar el commit
+4. Finalmente dar click a los 3 puntos horizontales ubicados en la ventana de source control y dar click a la opcion de push
+
+## Realizar una modificación desde Visual Studio Code mediante la extencion de GitHub Pull Request and issues
+
