@@ -38,7 +38,7 @@ comando
 
 #### Edición desde el visor grafico de git
 
-Otra forma de editar un archivo es accediendo desde la pagina de: http://github.com donde accederemos al archivo que deseamos editar, dando click a la herramienta "Editar este archivo" el cual se encuentra marcado con el simbolo de un lapiz. Al momento de realizar los cambios en el archivo, se sugiere realizar un commit de los mismos. Esto lo podremos realizar desde la sección Commit change, la cual parecera en la parte inferior del archivo en edición
+Otra forma de editar un archivo es accediendo desde la pagina http://github.com donde accederemos al archivo que deseamos editar, dando click a la herramienta "Editar este archivo" el cual se encuentra marcado con el simbolo de un lapiz. Al momento de realizar los cambios en el archivo, se sugiere realizar un commit de los mismos. Esto lo podremos realizar desde la sección Commit change, la cual parecera en la parte inferior del archivo en edición
 
 Para actualizar los cambios realizados desde el editor web en la computadora, basta con escribir el comando:
 
@@ -60,3 +60,8 @@ Pasos:
 
 ## Realizar una modificación desde Visual Studio Code mediante la extencion de GitHub Pull Request and issues
 
+1. Realizar la modificación deseada
+2. En la pestaña File --> Save ó por medio del atajo de teclas Ctrl+s se guarda el cambio realizado
+3. Una vez guardado el cambio, damos click al plugin de GitHub, ubicado en la pestaña izquierda de nuestra ventana
+4. En la pestaña de pull request, damos click a "Create Pull Request"
+5. En la pestaña que se abre a continuacion, anotamos un titulo y descripcionde la modificacion realizada y damos click a "Create"
