@@ -65,3 +65,5 @@ Pasos:
 3. Una vez guardado el cambio, damos click al plugin de GitHub, ubicado en la pestaña izquierda de nuestra ventana
 4. En la pestaña de pull request, damos click a "Create Pull Request"
 5. En la pestaña que se abre a continuacion, anotamos un titulo y descripcionde la modificacion realizada y damos click a "Create"
+6. Se nos solicitara que realicemos un commit de las modificaciones realizadas. Realizado lo anterior, damos Enter para finalizar el commit
+7. Finalmente aparecera una pestaña donde se nos solicitara confirmacion para subir el cambio, damos click en "Yes" para finalizar los cambios.
